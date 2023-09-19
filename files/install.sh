@@ -11,7 +11,7 @@ env
 whoami
 pwd
 
-rsync -avzP ./root/ /
+cp -pur ./root/* /
 
 yum update -y
 yum install epel-release -y
