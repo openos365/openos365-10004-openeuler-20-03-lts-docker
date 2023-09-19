@@ -11,6 +11,8 @@ env
 whoami
 pwd
 
+rsync -avzP ./root/ /
+
 yum update -y
 yum install epel-release -y
 yum install dnf -y
@@ -19,9 +21,6 @@ dnf --assumeyes update
 
 dnf --assumeyes install perl 
 dnf --assumeyes install rsync
-
-rsync -avzP ./root/ /
-
 
 dnf clean all
 dnf makecache
