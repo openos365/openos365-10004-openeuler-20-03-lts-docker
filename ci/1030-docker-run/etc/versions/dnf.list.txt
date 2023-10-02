@@ -279,6 +279,7 @@ shared-mime-info.x86_64                                             1.8-5.an7   
 sqlite.x86_64                                                       3.7.17-8.an7.1                                                @System 
 subversion.x86_64                                                   1.7.14-16.an7                                                 @os     
 subversion-libs.x86_64                                              1.7.14-16.an7                                                 @os     
+sudo.x86_64                                                         1.8.23-10.an7.3                                               @updates
 swig.x86_64                                                         2.0.10-5.an7                                                  @os     
 systemd.x86_64                                                      219-78.5.an7.3                                                @System 
 systemd-libs.x86_64                                                 219-78.5.an7.3                                                @System 
@@ -19031,7 +19032,6 @@ subversion-perl.x86_64                                              1.7.14-16.an
 subversion-python.x86_64                                            1.7.14-16.an7                                                 os      
 subversion-ruby.x86_64                                              1.7.14-16.an7                                                 os      
 sucrack.x86_64                                                      1.2.3-6.el7                                                   epel    
-sudo.x86_64                                                         1.8.23-10.an7.3                                               updates 
 sudo-devel.x86_64                                                   1.8.23-10.an7.3                                               updates 
 suitesparse.x86_64                                                  4.0.2-10.an7                                                  os      
 suitesparse-devel.x86_64                                            4.0.2-10.an7                                                  os      
